@@ -1,0 +1,21 @@
+{
+  "total_duration": 12.59,
+  "segment_count": 2,
+  "parameters": {
+    "min_silence_len": 500,
+    "silence_thresh": -40,
+    "min_speech_len": 300
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.28,
+      "duration": 8.28
+    },
+    {
+      "start": 8.96,
+      "end": 9.96,
+      "duration": 1.0
+    }
+  ]
+}

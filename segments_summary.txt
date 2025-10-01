@@ -1,0 +1,15 @@
+Audio Segments Summary
+============================================================
+
+Segment 001:
+  Start: 0.00s
+  End: 8.28s
+  Duration: 8.28s
+  File: segment_001.wav
+
+Segment 002:
+  Start: 8.96s
+  End: 9.96s
+  Duration: 1.00s
+  File: segment_002.wav
+
